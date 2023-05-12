@@ -1,0 +1,33 @@
+nav {
+  position: fixed;
+  top: 0;
+  left: 0;
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  background-color: black;
+  padding: 10px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  width: 100%;
+  z-index: 999;
+    
+  }
+  
+  nav img {
+    
+    width: 30px;
+    height: 30px;
+    margin-right: 0px;
+  }
+  
+  nav h1 {
+    font-size: 18px;
+    margin: 0;
+    color: white;
+  }
+  nav h1, nav img {
+    margin-left: 10px;
+  }
+  .head{
+    margin-right: 95vh;
+  }
