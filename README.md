@@ -1,3 +1,6 @@
+
+
+
 # Word Frequency Analyzer
 
 This is a React application that fetches data from an API, performs word frequency analysis, and visualizes the results in a histogram chart. The application allows users to submit a request to fetch data, and once the analysis is complete, it displays the top 20 most frequent words in a histogram chart and a table. The table can be exported as a CSV file.
@@ -19,6 +22,7 @@ If the number of occurence of word is same then it was showing in alphabatically
 - Usage
 - Components
 - Libraries and Plugins
+- netlify hosting link
 
 
 ## Features
@@ -61,6 +65,9 @@ If the number of occurence of word is same then it was showing in alphabatically
 - Recharts: A composable charting library built with React and D3 for creating data visualization components.
 
 - To install these dependencies using the provided package.json file before running the application.
+
+## Netlify Hosting link
+[https://645ea69d5d7902402e98b1e7--magenta-snickerdoodle-46f86d.netlify.app/]
 
 
 Note: This application is developed as part of an assignment for the "Terribly Tiny Tales" coding challenge. The purpose of this project is to showcase my programming skills and understanding of web technologies.
