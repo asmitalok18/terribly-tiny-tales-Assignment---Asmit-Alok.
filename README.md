@@ -1,6 +1,4 @@
 
-
-
 # Word Frequency Analyzer
 
 This is a React application that fetches data from an API, performs word frequency analysis, and visualizes the results in a histogram chart. The application allows users to submit a request to fetch data, and once the analysis is complete, it displays the top 20 most frequent words in a histogram chart and a table. The table can be exported as a CSV file.
