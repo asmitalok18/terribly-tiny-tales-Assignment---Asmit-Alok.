@@ -66,8 +66,7 @@ If the number of occurence of word is same then it was showing in alphabatically
 
 - To install these dependencies using the provided package.json file before running the application.
 
+Note: This application is developed as part of an assignment for the "Terribly Tiny Tales" coding challenge. The purpose of this project is to showcase my programming skills and understanding of web technologies.
+
 ## Netlify Hosting link
 [https://645ea69d5d7902402e98b1e7--magenta-snickerdoodle-46f86d.netlify.app/]
-
-
-Note: This application is developed as part of an assignment for the "Terribly Tiny Tales" coding challenge. The purpose of this project is to showcase my programming skills and understanding of web technologies.
